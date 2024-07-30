@@ -19,7 +19,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         guard let scene = (scene as? UIWindowScene) else { return }
         window = UIWindow(windowScene: scene)
         
-        let vc = ExampleViewController()
+        let vc = SimpleValidationViewController()
         window?.rootViewController = vc // sb에서 entrypoint처럼 동작
         window?.makeKeyAndVisible()  // show
     }
