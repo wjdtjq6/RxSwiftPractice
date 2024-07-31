@@ -22,6 +22,7 @@
 		0354EF062C5934A600B9B555 /* SimplePickerViewExampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0354EF052C5934A600B9B555 /* SimplePickerViewExampleViewController.swift */; };
 		0354EF082C59386600B9B555 /* NumbersViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0354EF072C59386600B9B555 /* NumbersViewController.swift */; };
 		0354EF0A2C5941FC00B9B555 /* SimpleValidationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0354EF092C5941FC00B9B555 /* SimpleValidationViewController.swift */; };
+		0354EF0E2C5A370300B9B555 /* PasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0354EF0D2C5A370300B9B555 /* PasswordViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,6 +39,7 @@
 		0354EF052C5934A600B9B555 /* SimplePickerViewExampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimplePickerViewExampleViewController.swift; sourceTree = "<group>"; };
 		0354EF072C59386600B9B555 /* NumbersViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersViewController.swift; sourceTree = "<group>"; };
 		0354EF092C5941FC00B9B555 /* SimpleValidationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleValidationViewController.swift; sourceTree = "<group>"; };
+		0354EF0D2C5A370300B9B555 /* PasswordViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				0354EF052C5934A600B9B555 /* SimplePickerViewExampleViewController.swift */,
 				0354EF072C59386600B9B555 /* NumbersViewController.swift */,
 				0354EF092C5941FC00B9B555 /* SimpleValidationViewController.swift */,
+				0354EF0D2C5A370300B9B555 /* PasswordViewController.swift */,
 			);
 			path = RxSwiftPractice;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				0354EF082C59386600B9B555 /* NumbersViewController.swift in Sources */,
 				0354EEE32C58D2CA00B9B555 /* SceneDelegate.swift in Sources */,
 				0354EEFF2C59209400B9B555 /* SimpleTableViewExampleViewController.swift in Sources */,
+				0354EF0E2C5A370300B9B555 /* PasswordViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
